@@ -39,7 +39,7 @@ const listItemsURL = `https://my-json-server.typicode.com/sabinamp/shoppinglist/
         {loading || error ? (
           <span>{error || 'Loading...'}</span>
         ) : (
-          items.map((item) => <ListItem key={item.id} data={item} />)
+          items.map((item) => <ListItem key={item.id} item={item} />)
         )}
       </ListWrapper>
     </>
