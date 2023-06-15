@@ -13,6 +13,7 @@ const HeaderWrapper = styled.div`
 
 const Title = styled.h1`
   pointer-events: none;
+  font-size: 1.4rem;
 `;
 
 const Header=({title})=> {
