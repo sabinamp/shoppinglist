@@ -27,7 +27,7 @@ const Title = styled.h3`
   flex-basis: 80%;
 `;
 
-const dataURL='https://my-json-server.typicode.com/PacktPublishing/React-Projects-Second-Edition/lists';
+const dataURL='https://my-json-server.typicode.com/sabinamp/shoppinglist/lists';
 
 const Lists = () => {
   let navigate = useNavigate();
