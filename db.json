@@ -1,50 +1,53 @@
-[
-    {
-	"id": "01",	
-	"title": "Daily Groceries",	
-	"items":
-		[
-			{ "id": "01", "product name": "Onions", "price": "0.5$", "quantity":1 },
-			{ "id": "02", "product name": "Garlic", "price": "0.5$", "quantity":1 },
-			{ "id": "03", "product name": "Tomatoes", "price": "1$", "quantity":2 },
-			{ "id": "04", "product name": "Cabbage", "price": "2$", "quantity":1 }					
-		]
-    },
-    {
-        "id": "02",       
-        "title": "Cake Topping",	
-        "items":
-            [
-                { "id": "01", "product name": "Sugar", "price": "1.5$", "quantity":1},
-                { "id": "02", "product name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
-                { "id": "03", "product name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
-                { "id": "04", "product name": "Chocolate", "price": "1$", "quantity":1 },
-                { "id": "05", "product name": "Maple", "price": "1$", "quantity":1}
-            ]
-    },
-    {
-        "id": "03",        
-        "title": "Condiments",	
-        "items":
-            [
-                { "id": "01", "product name": "Pepper", "price": "0.5$", "quantity":1 },
-                { "id": "02", "product name": "Basil", "price": "0.5$", "quantity":1 },
-                { "id": "03", "product name": "Cumin", "price": "0.5$", "quantity":1},
-                { "id": "04", "product name": "Salt", "price": "0.5$", "quantity":1 }              
-            ]
-    },
-    {
-        "id": "04",      
-        "title": "Diary & Eggs",	
-        "items":
-            [
-                { "id": "01", "product name": "Milk", "price": "1$", "quantity":1 },
-                { "id": "02", "product name": "Yoghurt", "price": "0.5$", "quantity":2 },
-                { "id": "03", "product name": "Cheese", "price": "3.5$", "quantity":1},
-                { "id": "04", "product name": "Eggs", "price": "5.5$", "quantity": 2 }              
-            ]
-    }
+{
+    "lists" : [
+        {
+            "id": "01",	
+            "title": "Daily Groceries",	
+            "items":
+                [
+                    { "id": "01", "product name": "Onions", "price": "0.5$", "quantity":1 },
+                    { "id": "02", "product name": "Garlic", "price": "0.5$", "quantity":1 },
+                    { "id": "03", "product name": "Tomatoes", "price": "1$", "quantity":2 },
+                    { "id": "04", "product name": "Cabbage", "price": "2$", "quantity":1 }					
+                ]
+            },
+            {
+                "id": "02",       
+                "title": "Cake Topping",	
+                "items":
+                    [
+                        { "id": "01", "product name": "Sugar", "price": "1.5$", "quantity":1},
+                        { "id": "02", "product name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
+                        { "id": "03", "product name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
+                        { "id": "04", "product name": "Chocolate", "price": "1$", "quantity":1 },
+                        { "id": "05", "product name": "Maple", "price": "1$", "quantity":1}
+                    ]
+            },
+            {
+                "id": "03",        
+                "title": "Condiments",	
+                "items":
+                    [
+                        { "id": "01", "product name": "Pepper", "price": "0.5$", "quantity":1 },
+                        { "id": "02", "product name": "Basil", "price": "0.5$", "quantity":1 },
+                        { "id": "03", "product name": "Cumin", "price": "0.5$", "quantity":1},
+                        { "id": "04", "product name": "Salt", "price": "0.5$", "quantity":1 }              
+                    ]
+            },
+            {
+                "id": "04",      
+                "title": "Diary & Eggs",	
+                "items":
+                    [
+                        { "id": "01", "product name": "Milk", "price": "1$", "quantity":1 },
+                        { "id": "02", "product name": "Yoghurt", "price": "0.5$", "quantity":2 },
+                        { "id": "03", "product name": "Cheese", "price": "3.5$", "quantity":1},
+                        { "id": "04", "product name": "Eggs", "price": "5.5$", "quantity": 2 }              
+                    ]
+            }
+    ]
+    
 
-]
+}
   
     
