@@ -1,7 +1,7 @@
 {
     "lists" : [
            {
-            "id": "01",	
+            "id": 1,	
             "title": "Daily Groceries",	
             "items":
                 [
@@ -12,7 +12,7 @@
                 ]
             },
             {
-                "id": "02",       
+                "id": 2,       
                 "title": "Cake Topping",	
                 "items":
                     [
@@ -24,7 +24,7 @@
                     ]
             },
             {
-                "id": "03",        
+                "id": 3,        
                 "title": "Condiments",	
                 "items":
                     [
@@ -35,7 +35,7 @@
                     ]
             },
             {
-                "id": "04",      
+                "id": 4,      
                 "title": "Diary & Eggs",	
                 "items":
                     [

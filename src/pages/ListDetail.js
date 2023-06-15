@@ -11,11 +11,12 @@ const ListWrapper = styled.div`
   flex-direction: column;
   margin: 2% 5%;
 `;
-const listItemsURL= 'https://my-json-server.typicode.com/PacktPublishing/React-Projects-Second-Edition/items/';
+
 
 const ListDetail=() =>{
   let navigate = useNavigate();
   const { listId } = useParams();
+const listItemsURL = `https://my-json-server.typicode.com/sabinamp/shoppinglist/lists/${listId}`;
 
   const [loading, error, data] = useDataFetching(listItemsURL,);
 
@@ -23,7 +24,7 @@ const ListDetail=() =>{
   
 
   useEffect(() => {
-    data &&  listId && setItems(data.filter((item) => item.listId === parseInt(listId)));
+    data &&  listId && setItems(data.items);
   }, [data, listId]);
 
   return (
