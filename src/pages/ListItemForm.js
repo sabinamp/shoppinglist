@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { useNavigate, useParams } from 'react-router-dom';
 import NavBar from '../components/NavBar';
 import FormItem from '../components/FormItem/FormItem';
-import Button from '../components/Button/Button';
+import Button from '../components/Button';
 import { useState } from 'react';
 
 const FormWrapper = styled.div`

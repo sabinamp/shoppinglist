@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
-import Header from './components/Header/Header';
+import Header from './components/Header';
 import Lists from './pages/Lists';
 import ListDetail from './pages/ListDetail';
 import ListItemForm from './pages/ListItemForm';
