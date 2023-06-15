@@ -25,7 +25,7 @@ const Total = styled.span`
 const ListItem=({ data })=>{
   return (
     <ListItemWrapper>
-      <Title>{data.title}</Title>
+      <Title>{data.name}</Title>
       <Total>{`Quantity: ${data.quantity}`}</Total>
       <Total>{`$ ${data.price}`}</Total>
     </ListItemWrapper>

@@ -5,10 +5,10 @@
             "title": "Daily Groceries",	
             "items":
                 [
-                    { "id": "01", "product name": "Onions", "price": "0.5$", "quantity":1 },
-                    { "id": "02", "product name": "Garlic", "price": "0.5$", "quantity":1 },
-                    { "id": "03", "product name": "Tomatoes", "price": "1$", "quantity":2 },
-                    { "id": "04", "product name": "Cabbage", "price": "2$", "quantity":1 }					
+                    { "id": "01", "name": "Onions", "price": "0.5$", "quantity":1 },
+                    { "id": "02", "name": "Garlic", "price": "0.5$", "quantity":1 },
+                    { "id": "03", "name": "Tomatoes", "price": "1$", "quantity":2 },
+                    { "id": "04", "name": "Cabbage", "price": "2$", "quantity":1 }					
                 ]
             },
             {
@@ -16,11 +16,11 @@
                 "title": "Cake Topping",	
                 "items":
                     [
-                        { "id": "01", "product name": "Sugar", "price": "1.5$", "quantity":1},
-                        { "id": "02", "product name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
-                        { "id": "03", "product name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
-                        { "id": "04", "product name": "Chocolate", "price": "1$", "quantity":1 },
-                        { "id": "05", "product name": "Maple", "price": "1$", "quantity":1}
+                        { "id": "01", "name": "Sugar", "price": "1.5$", "quantity":1},
+                        { "id": "02", "name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
+                        { "id": "03", "name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
+                        { "id": "04", "name": "Chocolate", "price": "1$", "quantity":1 },
+                        { "id": "05", "name": "Maple", "price": "1$", "quantity":1}
                     ]
             },
             {
@@ -28,10 +28,10 @@
                 "title": "Condiments",	
                 "items":
                     [
-                        { "id": "01", "product name": "Pepper", "price": "0.5$", "quantity":1 },
-                        { "id": "02", "product name": "Basil", "price": "0.5$", "quantity":1 },
-                        { "id": "03", "product name": "Cumin", "price": "0.5$", "quantity":1},
-                        { "id": "04", "product name": "Salt", "price": "0.5$", "quantity":1 }              
+                        { "id": "01", "name": "Pepper", "price": "0.5$", "quantity":1 },
+                        { "id": "02", "name": "Basil", "price": "0.5$", "quantity":1 },
+                        { "id": "03", "name": "Cumin", "price": "0.5$", "quantity":1},
+                        { "id": "04", "name": "Salt", "price": "0.5$", "quantity":1 }              
                     ]
             },
             {
