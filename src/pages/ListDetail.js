@@ -24,7 +24,7 @@ const ListDetail=() =>{
   
 
   useEffect(() => {
-    data &&  listId && setItems(data.items);
+    data &&  listId && data.items && setItems(data.items);
   }, [data, listId]);
 
   return (

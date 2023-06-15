@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { useNavigate, useParams } from 'react-router-dom';
 import NavBar from '../components/NavBar';
-import FormItem from '../components/FormItem/FormItem';
+import FormItem from '../components/FormItem';
 import Button from '../components/Button';
 import { useState } from 'react';
 

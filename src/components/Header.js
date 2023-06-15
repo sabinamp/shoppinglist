@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const HeaderWrapper = styled.div`
-  background-color: orange;
+  background-color: #004F98;
   height: 100%;
   display: flex;
   flex-direction: column;

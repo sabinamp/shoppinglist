@@ -5,7 +5,7 @@ const NavBarWrapper = styled.div`
   width: 100%;
   display: flex;
   justify-content: space-between;
-  background: navajowhite;
+  background: #B0E0E6;
 `;
 
 
