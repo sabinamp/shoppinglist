@@ -5,10 +5,10 @@
             "title": "Daily Groceries",	
             "items":
                 [
-                    { "id": "01", "name": "Onions", "price": "0.5$", "quantity":1 },
-                    { "id": "02", "name": "Garlic", "price": "0.5$", "quantity":1 },
-                    { "id": "03", "name": "Tomatoes", "price": "1$", "quantity":2 },
-                    { "id": "04", "name": "Cabbage", "price": "2$", "quantity":1 }					
+                    { "id": 1, "name": "Onions", "price": "0.5$", "quantity":1 },
+                    { "id": 2, "name": "Garlic", "price": "0.5$", "quantity":1 },
+                    { "id": 3, "name": "Tomatoes", "price": "1$", "quantity":2 },
+                    { "id": 4, "name": "Cabbage", "price": "2$", "quantity":1 }					
                 ]
             },
             {
@@ -16,11 +16,11 @@
                 "title": "Cake Topping",	
                 "items":
                     [
-                        { "id": "01", "name": "Sugar", "price": "1.5$", "quantity":1},
-                        { "id": "02", "name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
-                        { "id": "03", "name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
-                        { "id": "04", "name": "Chocolate", "price": "1$", "quantity":1 },
-                        { "id": "05", "name": "Maple", "price": "1$", "quantity":1}
+                        { "id": 1, "name": "Sugar", "price": "1.5$", "quantity":1},
+                        { "id": 2, "name": "Powdered Sugar", "price": "1.5$", "quantity":1 },
+                        { "id": 3, "name": "Chocolate with Sprinkles", "price": "2$", "quantity":1 },
+                        { "id": 4, "name": "Chocolate", "price": "1$", "quantity":1 },
+                        { "id": 5, "name": "Maple", "price": "1$", "quantity":1}
                     ]
             },
             {
@@ -28,10 +28,10 @@
                 "title": "Condiments",	
                 "items":
                     [
-                        { "id": "01", "name": "Pepper", "price": "0.5$", "quantity":1 },
-                        { "id": "02", "name": "Basil", "price": "0.5$", "quantity":1 },
-                        { "id": "03", "name": "Cumin", "price": "0.5$", "quantity":1},
-                        { "id": "04", "name": "Salt", "price": "0.5$", "quantity":1 }              
+                        { "id": 1, "name": "Pepper", "price": "0.5$", "quantity":1 },
+                        { "id": 2, "name": "Basil", "price": "0.5$", "quantity":1 },
+                        { "id": 3, "name": "Cumin", "price": "0.5$", "quantity":1},
+                        { "id": 4, "name": "Salt", "price": "0.5$", "quantity":1 }              
                     ]
             },
             {
@@ -39,10 +39,11 @@
                 "title": "Diary & Eggs",	
                 "items":
                     [
-                        { "id": "01", "product name": "Milk", "price": "1$", "quantity":1 },
-                        { "id": "02", "product name": "Yoghurt", "price": "0.5$", "quantity":2 },
-                        { "id": "03", "product name": "Cheese", "price": "3.5$", "quantity":1},
-                        { "id": "04", "product name": "Eggs", "price": "5.5$", "quantity": 2 }              
+                        { "id": 1, "name": "Milk", "price": "1$", "quantity":1 },
+                        { "id": 2, "name": "Yoghurt", "price": "0.5$", "quantity":2 },
+                        { "id": 3, "name": "Cheese", "price": "3.5$", "quantity":1},
+                        { "id": 4, "name": "Eggs", "price": "5.5$", "quantity": 2 },
+                        { "id": 5, "name": "Mascarpone", "price": "3.5$", "quantity": 2 }              
                     ]
             }
     ]

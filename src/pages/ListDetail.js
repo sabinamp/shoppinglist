@@ -16,9 +16,9 @@ const ListWrapper = styled.div`
 const ListDetail=() =>{
   let navigate = useNavigate();
   const { listId } = useParams();
-const listItemsURL = `https://my-json-server.typicode.com/sabinamp/shoppinglist/lists/${listId}`;
 
-  const [loading, error, data] = useDataFetching(listItemsURL,);
+  const listItemsURL = `https://my-json-server.typicode.com/sabinamp/shoppinglist/lists/${listId}`;
+  const [loading, error, data] = useDataFetching(listItemsURL);
 
   const [items, setItems] = useState([]);
   
